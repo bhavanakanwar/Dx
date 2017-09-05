@@ -1,0 +1,219 @@
+[
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603624273,
+            "changeTime": 1504603624273,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603624273,
+            "changeTime": 1504603624273,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605714071,
+            "changeTime": 1504605714071,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603953886,
+            "changeTime": 1504603953886,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603953891,
+            "changeTime": 1504603953891,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "size": 1621,
+            "modifiedTime": 1504604122547,
+            "changeTime": 1504604122547,
+            "contentHash": "b6b761f3c4c997ad9241c6e3461e3b49e283e622",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1504603953888,
+            "changeTime": 1504603953888,
+            "contentHash": "8aa185141635929bfe1cb48799647c1eb1f1a0d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504603953890,
+            "changeTime": 1504603953890,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1504604369414,
+            "changeTime": 1504604369414,
+            "contentHash": "25fb643013187e7749bf8e4bb1742e9aec611b3c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504603953889,
+            "changeTime": 1504603953889,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504603953891,
+            "changeTime": 1504603953891,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning",
+        {
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604564434,
+            "changeTime": 1504604564434,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7286,
+            "modifiedTime": 1504605714072,
+            "changeTime": 1504605714072,
+            "contentHash": "0dcced3d02e5f8e0b76956be8ebc9a235107137c"
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages\\Contact_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6553,
+            "modifiedTime": 1504605714073,
+            "changeTime": 1504605714073,
+            "contentHash": "d8e1060c43b7a462defed6b2bed9f682ae419b6f"
+        }
+    ],
+    [
+        "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\bhavna.kanwar\\Desktop\\DXLightning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605714073,
+            "changeTime": 1504605714073,
+            "contentHash": "7d76c32fcdc0ac63af5fdeb7ec1e42a27cd1dfcb"
+        }
+    ]
+]
